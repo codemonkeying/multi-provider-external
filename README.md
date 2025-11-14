@@ -51,6 +51,10 @@ pydantic>=2.0.0
 requests>=2.0.0
 google-generativeai>=0.3.0
 
+## 🌟 Repository
+
+Find the latest version and contribute at: https://github.com/codemonkeying/multi-provider-external
+
 ## 📝 License
 
 MIT License - Feel free to modify and distribute!
