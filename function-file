@@ -836,3 +836,15 @@ class Pipe:
                         break
                 except json.JSONDecodeError:
                     continue
+
+## 🌟 Repository
+
+Find the latest version and contribute at: https://github.com/codemonkeying/multi-provider-external
+
+## 📝 License
+
+MIT License - Feel free to modify and distribute!
+
+---
+
+**Built by Tom Miles** | Version 1.2.1
